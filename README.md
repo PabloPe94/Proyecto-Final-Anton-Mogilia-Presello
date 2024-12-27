@@ -23,11 +23,11 @@ Aqui hay un enlace a un video expliactivo del funcionamiento de nuestra pagina: 
 
 ## Proximas versiones incluiran:
 
--Mas atributos en la creacion de equipos como por ejemplo: Horario de juego, Uso de discord, Edad, etc...
--Ampliación del perfil de cada usuario.
--Mejor interfaz
--Permitir mas interacciones entre usuario, como ver perfiles, añadir amigos y dar puntuaciones.
--Crear base de datos de juegos disponibles para crear equipos, para mejorar la busqueda y creacion de los mismos
+- Mas atributos en la creacion de equipos como por ejemplo: Horario de juego, Uso de discord, Edad, etc...
+- Ampliación del perfil de cada usuario.
+- Mejor interfaz
+- Permitir mas interacciones entre usuario, como ver perfiles, añadir amigos y dar puntuaciones.
+- Crear base de datos de juegos disponibles para crear equipos, para mejorar la busqueda y creacion de los mismos
 
 ## Creadores
 
