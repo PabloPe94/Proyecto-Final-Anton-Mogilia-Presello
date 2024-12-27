@@ -31,9 +31,9 @@ Aqui hay un enlace a un video expliactivo del funcionamiento de nuestra pagina: 
 
 ## Creadores
 
--Anton, Julian.
--Moglia, Nicolas.
--Presello, Pablo.
+- Anton, Julian.
+- Moglia, Nicolas.
+- Presello, Pablo.
 
 
 
